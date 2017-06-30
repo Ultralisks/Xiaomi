@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>注册</title>
+	<link rel="stylesheet" type="text/css" href="css/public.css" />
+	<script type="text/javascript" src = "js/jquery-1.11.1.js"></script>
+	<script type="text/javascript" src = "js/jquery.cookie.js"></script>
+	<style type="text/css">
+
+		#landing{height:525px;width:400px;border:1px solid #000;text-align:center;}
+		#landing h3{font-size:32px;padding:27px 0 24px;}
+		#landing input{margin:14px;height:24px;width:306px;padding:13px 16px 13px 14px;}
+		#landing .btn{height:50px;width:336px;background:#f60;border:1px solid #f60;font-size:18px;color:#fff;}
+		#landing a{padding:0 9px 0 6px;}
+		#landing img{display:block;margin-top:84px;}
+	</style>
+	<script type="text/javascript">
+		$(function(){
+			land();
+			$("#landing").find("h3").html("注册小米账号");
+			$(".btn").click(function(){
+				$.ajax({
+					url:"http://datainfo.duapp.com/shopdata/userinfo.php",
+					type:"post",
+					data:{"status":"register", "userID":$(".txt").val(), "password":$(".pass").val()},
+					dataType:"json",
+					success:function(data){
+						switch(data){
+							case 0:alert("用户名重名");
+							break;
+							case 1:alert("注册成功");
+							break;
+							default:alert("数据库报错");
+							break;
+						}
+					},
+					error:function(error){
+						alert(error);
+					}
+				})
+			})
+			
+		});
+	var land = (function(){
+			var oDiv = null;
+			var createDiv = function(){
+				if(!oDiv){
+					var oDiv = $("<div id='landing'></div>");
+					var oH3 = $("<h3></h3>");
+					var aInput1 = $("<input type='text' class='txt' />");
+					var aInput2 = $("<input type='password' class='pass' />");
+					var aInput3 = $("<input type='button' class='btn' value='立即注册' />");
+					oDiv.appendTo($(document).find("body")).append(oH3).append(aInput1).append(aInput2).append(aInput3);
+						
+				}
+			}
+			return createDiv;
+		})();
+	</script>
+</head>
+<body>
+	
+</body>
+</html>

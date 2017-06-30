@@ -1,0 +1,261 @@
+[{
+	"name":"小米手机",
+	"child":[{
+		"id":"0001",
+		"name":"小米6",
+		"img":"images/xm6_320.png",
+		"href":"#",
+		"top":"新品",
+		"price":"2499元起"
+	},{
+		"id":"0002",
+		"name":"小米note2",
+		"img":"images/xiaomiNOTE2-320-220!160x110.jpg",
+		"href":"#",
+		"top":"现货",
+		"price":"2799元起"
+	},{
+		"id":"0003",
+		"name":"小米MIX",
+		"img":"images/MIX-320-220!160x110.jpg",
+		"href":"#",
+		"top":"现货",
+		"price":"3499元起"
+	},{
+		"id":"0004",
+		"name":"小米5s",
+		"img":"images/xiaomi5S-320-220!160x110.jpg",
+		"href":"#",
+		"price":"1999元起"
+	},{
+		"id":"0005",
+		"name":"小米5s Plus",
+		"img":"images/5spluse320_220!160x110.jpg",
+		"href":"#",
+		"price":"2299元起"
+	},{
+		"id":"0006",
+		"name":"小米手机5c",
+		"img":"images/mi5c_320x220.png",
+		"href":"#",
+		"price":"1499元起"
+	}]
+},{
+	"name":"红米",
+	"child":[{
+		"id":"0007",
+		"name":"红米Note 4X",
+		"img":"images/hmn4xtb!160x110.jpg",
+		"href":"#",
+		"top":"新品",
+		"price":"999元起"
+	},{
+		"id":"0008",
+		"name":"红米Note4",
+		"img":"images/hongminote4!160x110.jpg",
+		"href":"#",
+		"price":"999元起"
+	},{
+		"id":"0009",
+		"name":"红米4X",
+		"img":"images/hm4x320!160x110.jpg",
+		"href":"#",
+		"price":"699元起"
+	},{
+		"id":"0010",
+		"name":"红米4A",
+		"img":"images/hm4a320.png",
+		"href":"#",
+		"price":"599元起"
+	},{
+		"id":"0011",
+		"name":"红米4",
+		"img":"images/320-2202!160x110.jpg",
+		"href":"#",
+		"price":"799元起"
+	}]
+},{
+	"name":"平板·笔记本",
+	"child":[{
+		"id":"0012",
+		"name":"小米平板3 64GB",
+		"img":"images/mipad3_320.png",
+		"href":"#",
+		"top":"新品",
+		"price":"1499元起"
+	},{
+		"id":"0013",
+		"name":"小米笔记本Air 12.5;",
+		"img":"images/bijiben32012.5!160x110.jpg",
+		"href":"#",
+		"top":"新品",
+		"price":"3599元"
+	},{
+		"id":"0014",
+		"name":"小米笔记本Air 13.3",
+		"img":"images/bijiben320!160x110.jpg",
+		"href":"#",
+		"price":"4999元"
+	},{
+		"id":"0015",
+		"name":"小米笔记本Air 13.3尊享版",
+		"img":"images/bijiben320!160x110.jpg",
+		"href":"#",
+		"price":"5999元"
+	}]
+},{
+	"name":"电视",
+	"child":[{
+		"id":"0016",
+		"name":"小米电视4A 43英寸",
+		"img":"images/320_43.png",
+		"href":"#",
+		"top":"新品",
+		"price":"2099元"
+	},{
+		"id":"0017",
+		"name":"小米电视4A 49英寸",
+		"img":"images/320_49.png",
+		"href":"#",
+		"top":"新品",
+		"price":"2599元"
+	},{
+		"id":"0018",
+		"name":"小米电视4A 55英寸",
+		"img":"images/320_55.png",
+		"href":"#",
+		"top":"新品",
+		"price":"3199元"
+	},{
+		"id":"0019",
+		"name":"小米电视4A 65英寸",
+		"img":"images/320_65.png",
+		"href":"#",
+		"top":"新品",
+		"price":"5699元"
+	},{
+		"id":"0020",
+		"name":"小米电视3S 60英寸",
+		"img":"images/101860xin.png",
+		"href":"#",
+		"price":"4799元"
+	},{
+		"id":"0021",
+		"name":"查看全部<br/>小米电视",
+		"img":"images/70dianshi.png",
+		"href":"#"
+	}]
+},{
+	"name":"盒子·影音",
+	"child":[{
+		"id":"0022",
+		"name":"小米盒子3S",
+		"img":"images/mihezi.png",
+		"href":"#",
+		"price":"299元"
+	},{
+		"id":"0023",
+		"name":"小米盒子3C",
+		"img":"images/mihezi.png",
+		"href":"#",
+		"price":"199元"
+	},{
+		"id":"0024",
+		"name":"小米盒子3 增强版",
+		"img":"images/hezi3s!160x110.jpg",
+		"href":"#",
+		"price":"399元"
+	},{
+		"id":"0025",
+		"name":"小米家庭影院",
+		"img":"images/320x220.png",
+		"href":"#",
+		"price":"1999元"
+	},{
+		"id":"0026",
+		"name":"小米家庭音响 标准版",
+		"img":"images/putonban!160x110.jpg",
+		"href":"#",
+		"price":"699元"
+	}]
+},{
+	"name":"路由器",
+	"child":[{
+		"id":"0027",
+		"name":"小米路由器 HD",
+		"img":"images/lyqhd.png",
+		"href":"#",
+		"price":"1299元"
+	},{
+		"id":"0028",
+		"name":"小米路由器 Pro",
+		"img":"images/lyqhd.png",
+		"href":"#",
+		"price":"499元"
+	},{
+		"id":"0029",
+		"name":"小米路由器 3",
+		"img":"images/lyq31.png",
+		"href":"#",
+		"price":"149元"
+	},{
+		"id":"0030",
+		"name":"小米路由器 3C",
+		"img":"images/lyq31.png",
+		"href":"#",
+		"price":"99元"
+	},{
+		"id":"0031",
+		"name":"小米WiFi电力猫",
+		"img":"images/dlm01.png",
+		"href":"#",
+		"top":"新品",
+		"price":"249元"
+	},{
+		"id":"0032",
+		"name":"小米WiFi放大器 2",
+		"img":"images/fdq2!160x110.jpg",
+		"href":"#",
+		"price":"49元"
+	}]
+},{
+	"name":"智能硬件",
+	"child":[{
+		"id":"0033",
+		"name":"小米体脂秤",
+		"img":"images/tzc320!160x110.jpg",
+		"href":"#",
+		"price":"199元"	
+	},{
+		"id":"0034",
+		"name":"小米手环 2",
+		"img":"images/sh2-320-220.png",
+		"href":"#",
+		"top":"包邮",
+		"price":"149元"
+	},{
+		"id":"0035",
+		"name":"小米净水器",
+		"img":"images/jsqcs-320-220.png",
+		"href":"#",
+		"price":"1299元"
+	},{
+		"id":"0036",
+		"name":"小米VR眼镜 PLAY2",
+		"img":"images/xmvrplay2.png",
+		"href":"#",
+		"top":"新品",
+		"price":"99元"
+	},{
+		"id":"0037",
+		"name":"米家IH电饭煲",
+		"img":"images/dfb!160x110.jpg",
+		"href":"#",
+		"price":"399元"
+	},{
+		"id":"0038",
+		"name":"查看全部<br/>智能硬件",
+		"img":"images/air2!160x110.jpg",
+		"href":"#"
+	}]
+}]

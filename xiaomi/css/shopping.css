@@ -1,0 +1,50 @@
+.margin{width:1226px;margin:0 auto;}
+a:hover{text-decoration:none;color:#666;}
+.active{transition:all 0.2s;}
+.active:hover{z-index:2;box-shadow:0 15px 30px rgba(0,0,0,0.1);transform:translate(0, -2px);}
+
+#top{height:40px;background:#333;position: relative;z-index:2;}
+#top .margin{padding-top:15px;height:25px;}
+#top .margin .top-l li{float:left;font-size:12px;padding:0 7px 1px;}
+#top .margin a{color:#b0b0b0;}
+#top .margin .top-r{float:right;}
+#top .margin .top-r li{float:left;margin-top:-15px;padding:0 5px;font:12px/40px "";}
+
+
+header{background:#fff;height:100px;}
+header .margin{}
+header .margin #logo{margin-top:22px;display:block;float:left;}
+header .margin ul{margin-left:178px;}
+header .margin ul li{padding:0 10px;font:16px/100px "";float:left;}
+header .margin ul li a{color:#333;}
+header .margin ul li:hover a{color:#f60;transition:color 0.2s}
+header .margin .search{float:right;margin-top:25px;position:relative;}
+header .margin .search .txt{float:left;height:48px;width:243px;border:1px solid #e0e0e0;font:14px/20px "";text-indent:10px;}
+header .margin .search .sea_a{display:block;height:20px;padding:4px;font:12px/12px "";background:#eee;position:absolute;top:14px;right:140px;}
+header .margin .search .sea_a:last-child{right:55px;top:14px;}
+header .margin .search .sea_a:hover{background:#f60;color:#fff;transition:all 0.2s}
+header .margin .search .btn{float:right;height:48px;width:50px;border:1px solid #e0e0e0;border-left:0;background:url("../images/search.jpg") 16px 15px no-repeat;border-radius:0;}
+
+#banner a{display:block;margin-bottom:15px;}
+#banner ul li{float:left;margin-right:15px;margin-bottom:50px;height:170px;}
+#banner ul li:last-child{margin-right:0;}
+#banner ul li img{width:295px;height:170px;}
+
+#main{background:#f5f5f5;padding-top:50px;}
+#main .margin{}
+#main .margin div{height:440px;}
+#main .margin div h3{font:22px/58px "";}
+#main .margin div h3 a{float:right;font:16px/58px "";}
+#main .margin div h3 a:hover{color:#f60;transition:color 0.2s;}
+#main .margin div ul{margin:14px 0 15px -14px;text-align:center;}
+#main .margin div ul li{float:left;margin-left:14px;margin-bottom:14px;padding-top:39px;height:340px;width:234px;background:#fff;overflow:hidden;}
+#main .margin div ul li img{height:160px;width:160px;display:block;margin:0 auto 22px;}
+#main .margin div ul li input{height:38px;width:234px;background:#f60;border:1px solid #f60;font:12px/20px "";margin-top:81px;}
+#main .margin div ul li p{font:14px/20px "";}
+#main .margin div ul li span{font:12px/18px "";}
+
+
+
+footer{background:#fafafa;}
+
+

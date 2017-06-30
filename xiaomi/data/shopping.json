@@ -1,0 +1,219 @@
+[{
+	"title":"手机/平板/笔记本",
+	"child":[{
+		"id":5001,
+		"href":"#",
+		"img":"images/b01913a7-8379-20a7-143b-8f84c3322a5f!200x200.jpg",
+		"name":"红米4X 2GB+16GB",
+		"describe":"4100mAh 超长续航，5'舒适握感"
+	},{
+		"id":5002,
+		"href":"#",
+		"img":"images/8cd386e4-7d73-e60c-cf9d-e09e723c671d!200x200.jpg",
+		"name":"红米4X 3GB+32GB",
+		"describe":"4100mAh 超长续航、双卡双待"
+	},{
+		"id":5003,
+		"href":"#",
+		"img":"images/8cd386e4-7d73-e60c-cf9d-e09e723c671d!200x200.jpg",
+		"name":"红米4X 4GB+64GB",
+		"describe":"4100mAh 超长续航、双卡双待"
+	},{
+		"id":5004,
+		"href":"#",
+		"img":"images/8b4f3e38-d78b-97c7-49b2-b72719c5f016!200x200.jpg",
+		"name":"小米笔记本Air 12.5英寸",
+		"describe":"更轻更薄，待机久，充电快"
+	},{
+		"id":5005,
+		"href":"#",
+		"img":"images/8b4f3e38-d78b-97c7-49b2-b72719c5f016!200x200.jpg",
+		"name":"小米笔记本Air 13.3英寸",
+		"describe":"高性能 轻薄笔记本 独立显卡"
+	}]
+},{
+	"title":"手机/平板/笔记本",
+	"child":[{
+		"id":5011,
+		"href":"#",
+		"img":"images/T16AhgBCVv1RXrhCrK!200x200.jpg",
+		"name":"小米盒子3增强版",
+		"describe":"标配小米蓝牙语音体感遥控器"
+	},{
+		"id":5012,
+		"href":"#",
+		"img":"images/T16AhgBCVv1RXrhCrK!200x200.jpg",
+		"name":"小米盒子3s",
+		"describe":"4K 超高清，2GB+8GB 大存储"
+	},{
+		"id":5013,
+		"href":"#",
+		"img":"images/8cd386e4-7d73-e60c-cf9d-e09e723c671d!200x200.jpg",
+		"name":"小米盒子3c",
+		"describe":"4K 超高清，1GB+4GB 内存闪存"
+	}]
+},{
+	"title":"智能硬件",
+	"child":[{
+		"id":5021,
+		"href":"#",
+		"img":"images/29087f25-a8b1-b285-00fa-9e144076e2c4!200x200.jpg",
+		"name":"小米手环2",
+		"describe":"OLED显示屏，触摸操作"
+	},{
+		"id":5022,
+		"href":"#",
+		"img":"images/80fd939f-58c1-ae59-4cc6-27e3f409d353!200x200.jpg",
+		"name":"小米体脂称",
+		"describe":"10项身体数据 极简外观"
+	},{
+		"id":5023,
+		"href":"#",
+		"img":"images/T1Z3DgBbLT1RXrhCrK!200x200.jpg",
+		"name":"小米空气净化器",
+		"describe":"雾霾天，给自己和家人一份健康"
+	},{
+		"id":5024,
+		"href":"#",
+		"img":"images/991fad3a-93d2-d905-047d-794718156a6a!200x200.jpg",
+		"name":"米家恒温电水壶",
+		"describe":"水温智能控制，304 不锈钢内胆"
+	},{
+		"id":5025,
+		"href":"#",
+		"img":"images/a50e44c3-8b59-5683-7e2b-417f733417a6!200x200.jpg",
+		"name":"小米米家对讲机",
+		"describe":"位置共享 8天超长待机 FM收音机"
+	}]
+},{
+	"title":"耳机/音箱",
+	"child":[{
+		"id":5031,
+		"href":"#",
+		"img":"images/T1n5W_BgLv1RXrhCrK!200x200.jpg",
+		"name":"小米小钢炮蓝牙音箱2",
+		"describe":"专业喇叭，约7小时续航"
+	},{
+		"id":5032,
+		"href":"#",
+		"img":"images/2028278e-4d00-8b99-9d63-529043a8fef2!200x200.jpg",
+		"name":"小米蓝牙音箱",
+		"describe":"能装进口袋的好音箱"
+	},{
+		"id":5033,
+		"img":"images/T1hVY_BTdv1RXrhCrK!200x200.jpg",
+		"name":"小米随身蓝牙音箱",
+		"describe":"全金属外壳，内置麦克风"
+	},{
+		"id":5034,
+		"href":"#",
+		"img":"images/17a13755-6212-7275-e573-cc1ea9fa2ae4!200x200.jpg",
+		"name":"小米方盒子蓝牙音箱2",
+		"describe":"轻巧快捷，播放持久，音质清新"
+	},{
+		"id":5035,
+		"href":"#",
+		"img":"images/e4c0f21c-3bd4-323e-673b-a9c1c1c6e294!200x200.jpg",
+		"name":"小米蓝牙耳机 青春版",
+		"describe":"支持切歌，音量调节，6.5克轻巧"
+	}]
+},{
+	"title":"配件",
+	"child":[{
+		"id":5041,
+		"href":"#",
+		"img":"images/T1mtCjBgWT1RXrhCrK!200x200.jpg",
+		"name":"小米移动电源5000mAh",
+		"describe":"仅 9.9mm 薄，可放入衬衫兜里"
+	},{
+		"id":5042,
+		"href":"#",
+		"img":"images/3563cadb-795d-2240-c83d-9aeedd67ff4e!200x200.jpg",
+		"name":"10000mAh小米移动电源2",
+		"describe":"双向快充，仅 14.1mm 薄"
+	},{
+		"id":5043,
+		"href":"#",
+		"img":"images/553e9c2b-0023-e9a7-3bdb-26ec66a4007c!200x200.jpg",
+		"name":"小米移动电源10000mAh高配版",
+		"describe":"支持 USB Type-C 充放电"
+	},{
+		"id":5044,
+		"href":"#",
+		"img":"images/beb44270-f302-ffc5-3bd5-3acf5d277973!200x200.jpg",
+		"name":"小米移动电源20000mAh二代",
+		"describe":"双向快充，双 USB 输出"
+	},{
+		"id":5045,
+		"href":"#",
+		"img":"images/7e3a6e3b-7800-d0ee-aa1a-0f7e9cf03613!200x200.jpg",
+		"name":"小米指环支架",
+		"describe":"较小舒适 不锈钢指环 粘贴紧密"
+	}]
+},{
+	"title":"生活周边",
+	"child":[{
+		"id":5051,
+		"href":"#",
+		"img":"images/6819bd3b-561c-123b-94e8-d7f1e5b24063!200x200.jpg",
+		"name":"米家签字笔",
+		"describe":"跃然纸上，让书写丝滑流畅"
+	},{
+		"id":5052,
+		"href":"#",
+		"img":"images/9dca9949-3d75-85f7-6df8-3a4901abeaea!200x200.jpg",
+		"name":"小米插线板USB版",
+		"describe":"含3口USB，支持2A快充"
+	},{
+		"id":5053,
+		"href":"#",
+		"img":"images/81a6b8d7-6275-0ab6-9393-abd8e01b045f!200x200.jpg",
+		"name":"小米经典商务双肩包",
+		"describe":"实用商务时尚范，三层超大独立空间"
+	},{
+		"id":5054,
+		"href":"#",
+		"img":"images/2a83d112-c203-284e-51f4-5ba1587506d5!200x200.jpg",
+		"name":"小米自拍杆（线控版）",
+		"describe":"无需连接蓝牙，无需充电，即插即用"
+	},{
+		"id":5055,
+		"href":"#",
+		"img":"images/bd53dbef-6f3f-3761-8397-3f7003e9e713!200x200.jpg",
+		"name":" 最生活毛巾·青春系列",
+		"describe":"瑞典抗菌科技，1.6秒强吸水"
+	}]
+},{
+	"title":"礼品卡",
+	"child":[{
+		"id":5061,
+		"href":"#",
+		"img":"images/f2e5577e-af05-1015-5b4c-860652bfd1bd!200x200.jpg",
+		"name":"小米礼品卡（电子卡）2000元",
+		"describe":"电子卡无需寄运，即买即用"
+	},{
+		"id":5062,
+		"href":"#",
+		"img":"images/426b4d5c-3176-59f4-7fbf-f3e7fc6e06a5!200x200.jpg",
+		"name":"小米礼品卡（电子卡）1000元",
+		"describe":"电子卡无需寄运，即买即用"
+	},{
+		"id":5063,
+		"href":"#",
+		"img":"images/206545b1-0d77-7fe5-977b-1ff5ee3b5fb3!200x200.jpg",
+		"name":"小米礼品卡（电子卡）500元",
+		"describe":"电子卡无需寄运，即买即用"
+	},{
+		"id":5064,
+		"href":"#",
+		"img":"images/67103985-040d-c3f1-aded-e088e976b0de!200x200.jpg",
+		"name":"小米礼品卡（电子卡）200元",
+		"describe":"电子卡无需寄运，即买即用"
+	},{
+		"id":5065,
+		"href":"#",
+		"img":"images/976d5cff-7f30-5013-0d45-3d63ef2470ef!200x200.jpg",
+		"name":"小米礼品卡（电子卡）100元",
+		"describe":"电子卡无需寄运，即买即用"
+	}]
+}]
